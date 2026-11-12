@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Abdullah Lahin
 
-<!--
-**abdullahmlahin/abdullahmlahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Accounting (Assurance) candidate at Bentley University, seeking a Summer 2027 audit internship. I have hands-on audit and tax experience at KPMG and Deloitte in Bangladesh and am pursuing CPA licensure.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Audit:** substantive testing, internal controls and risk assessment, bank confirmations, inventory counts
+
+**Tax:** corporate income tax, withholding (TDS/VDS) and VAT compliance
+
+**Tools:** Power BI, Tableau, Alteryx, Excel (MOS Certified), KPMG Clara
+
+## Projects
+
+Dashboards and case work will be added here as repositories. More coming soon.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/abdullah-lahin-985455335/) | Waltham, MA
