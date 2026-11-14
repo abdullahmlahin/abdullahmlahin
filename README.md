@@ -10,9 +10,12 @@ MS Accounting (Assurance) candidate at Bentley University, seeking a Summer 2027
 
 ## Projects
 
-- [Power BI audit and retail analytics dashboards](https://github.com/abdullahmlahin/powerbi-audit-analytics-dashboards): Benford's Law fraud-risk screening of purchase orders, plus a retail customer-ratings dashboard
-- [Excel financial ratio analysis](https://github.com/abdullahmlahin/excel-financial-ratio-analysis): PivotTables and a profitability, activity, financing, liquidity and DuPont ratio model
-- [Alteryx audit analytics workflows](https://github.com/abdullahmlahin/alteryx-audit-analytics-workflows): forensic testing and trial balance analysis
+- [Benford's Law fraud-screening dashboard (Power BI)](https://github.com/abdullahmlahin/benfords-law-fraud-screening-dashboard): screening purchase orders for fraud risk
+- [Retail ratings dashboard (Power BI)](https://github.com/abdullahmlahin/retail-ratings-power-bi-dashboard): customer ratings by brand, city and age group
+- [PivotTable financial data analysis (Excel)](https://github.com/abdullahmlahin/excel-pivottable-financial-data-analysis): structuring and summarizing a large financial data set
+- [Financial ratio model (Excel)](https://github.com/abdullahmlahin/excel-financial-ratio-model): profitability, activity, financing, liquidity and DuPont analysis
+- [Forensic testing workflow (Alteryx)](https://github.com/abdullahmlahin/alteryx-forensic-testing-workflow): forensic-style data testing across multiple files
+- [Trial balance analysis (Alteryx)](https://github.com/abdullahmlahin/alteryx-trial-balance-analysis): payables, COGS vs. SG&A and balance extremes
 
 More case work coming soon.
 
